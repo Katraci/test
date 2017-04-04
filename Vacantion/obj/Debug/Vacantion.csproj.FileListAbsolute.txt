@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Exam\Vacantion\bin\Debug\Vacantion.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Exam\Vacantion\bin\Debug\Vacantion.exe
+C:\Users\Kucy\Desktop\SoftUni\Exam\Vacantion\bin\Debug\Vacantion.pdb
+C:\Users\Kucy\Desktop\SoftUni\Exam\Vacantion\obj\Debug\Vacantion.exe
+C:\Users\Kucy\Desktop\SoftUni\Exam\Vacantion\obj\Debug\Vacantion.pdb
+C:\Users\Kucy\Desktop\SoftUni\Exam\Vacantion\obj\Debug\Vacantion.csprojResolveAssemblyReference.cache

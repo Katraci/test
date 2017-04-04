@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Exam\watch\bin\Debug\watch.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Exam\watch\bin\Debug\watch.exe
+C:\Users\Kucy\Desktop\SoftUni\Exam\watch\bin\Debug\watch.pdb
+C:\Users\Kucy\Desktop\SoftUni\Exam\watch\obj\Debug\watch.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Exam\watch\obj\Debug\watch.exe
+C:\Users\Kucy\Desktop\SoftUni\Exam\watch\obj\Debug\watch.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Exam\Paint-Hous\bin\Debug\Paint-Hous.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Exam\Paint-Hous\bin\Debug\Paint-Hous.exe
+C:\Users\Kucy\Desktop\SoftUni\Exam\Paint-Hous\bin\Debug\Paint-Hous.pdb
+C:\Users\Kucy\Desktop\SoftUni\Exam\Paint-Hous\obj\Debug\Paint-Hous.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Exam\Paint-Hous\obj\Debug\Paint-Hous.exe
+C:\Users\Kucy\Desktop\SoftUni\Exam\Paint-Hous\obj\Debug\Paint-Hous.pdb

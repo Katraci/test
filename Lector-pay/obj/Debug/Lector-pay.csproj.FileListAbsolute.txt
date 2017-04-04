@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Exam\Lector-pay\bin\Debug\Lector-pay.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Exam\Lector-pay\bin\Debug\Lector-pay.exe
+C:\Users\Kucy\Desktop\SoftUni\Exam\Lector-pay\bin\Debug\Lector-pay.pdb
+C:\Users\Kucy\Desktop\SoftUni\Exam\Lector-pay\obj\Debug\Lector-pay.exe
+C:\Users\Kucy\Desktop\SoftUni\Exam\Lector-pay\obj\Debug\Lector-pay.pdb
+C:\Users\Kucy\Desktop\SoftUni\Exam\Lector-pay\obj\Debug\Lector-pay.csprojResolveAssemblyReference.cache
